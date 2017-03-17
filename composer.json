@@ -1,0 +1,7 @@
+{
+    "name": "kenway88/hello-world",
+    "description": "this is a test",
+    "license": "mit",
+    "minimum-stability": "dev",
+    "require": {}
+}
